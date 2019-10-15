@@ -10,7 +10,7 @@ import React from 'react';
 import {Provider} from "react-redux";
 import Store from './Store/configureStore';
 const store = Store()
-import HelloHeadler from "./Pages/helloHandler";
+import HelloHeadler from "./Pages/HelloHandler";
 import { YellowBox } from 'react-native';
 YellowBox.ignoreWarnings(['Remote debugger']);
 
