@@ -19,7 +19,7 @@
     "@types/react-test-renderer": "^16.9.0",
     "axios": "^0.19.0",
     "react": "16.9.0",
-    "react-native": "0.61.1",
+    "react-native": "0.62.3",
     "react-native-device-info": "^3.1.4",
     "react-native-fused-location": "^0.5.1",
     "react-native-gesture-handler": "^1.4.1",
